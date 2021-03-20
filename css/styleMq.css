@@ -1,0 +1,407 @@
+@media (min-width: 1120px) and (max-width: 1370px) {
+    .partner-section .partner-section-left {
+        flex: 44%;
+    }
+    .partner-section .partner-section-right {
+        flex: 56%;
+        padding: 59px 7%;
+    }
+}
+@media only screen and (max-width: 1168px) {
+    .cantainer {
+        width: 90%;
+    }
+    .navigation-bar .menu {
+        flex: 3;
+    }
+    .navigation-bar .menu ul li a {
+        padding: 8px 12px;
+        font-size: 15px;
+    }
+    .navigation-bar .contact-number .contact-left i {
+        font-size: 23px;
+    }
+    .navigation-bar .contact-number .contact-right p {
+        font-size: 12px;
+    }
+    .navigation-bar .contact-number .contact-right p span {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .navigation-bar .logo img {
+        width: 150px;
+    }
+    .navigation-bar .menu ul {
+        float: unset;
+        margin: auto;
+    }
+    .navigation-bar .menu ul li a {
+        padding: 5px 9px;
+        font-size: 13px;
+    }
+    .navigation-bar .contact-number .contact-left i {
+        font-size: 22px;
+    }
+    .navigation-bar .contact-number .contact-right p {
+        font-size: 11px;
+    }
+    .navigation-bar .contact-number .contact-right p span {
+        font-size: 16px;
+    }
+    .main-slider .slider-heading h4 {
+        font-size: 19px;
+    }
+    .main-slider .slider-heading h1 {
+        font-size: 40px;
+    }
+    .main-slider .slider-heading p {
+        font-size: 15px;
+    }
+    .main-slider .slider-heading a {
+        font-size: 13px;
+    }
+    .contact-section {
+        padding: 25px 7%;
+    }
+    .contact-section .contact-section-peragraph p {
+        margin: 6px 0px;
+        font-size: 19px;
+        font-weight: 500;
+    }
+    .contact-section .contact-section-button a {
+        padding: 8px 25px;
+        font-size: 13px;
+    }
+    .service-section .service-section-top .service-section-top-left h5 {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .service-section .service-section-top .service-section-top-left h1 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .service-section .service-section-top .service-section-top-right p {
+        line-height: 24px;
+        font-size: 16px;
+    }
+    .service-section .service-section-bottom .service-box .service-box-detail h4 {
+        font-size: 17px;
+        padding: 15px 0px;
+    }
+    .partner-section .partner-section-left {
+        flex: 45%;
+    }
+    .partner-section .partner-section-right {
+        flex: 55%;
+        padding: 50px 20px 50px 20px;
+    }
+    .partner-section .partner-section-right h2 {
+        text-transform: capitalize;
+        font-size: 30px;
+        font-weight: 600;
+        margin: 15px 0px;
+        letter-spacing: 0px;
+    }
+    .tab-buttons-peragraph {
+        font-size: 14px;
+        margin: 5px 0px 0px 0px;
+    }
+    .client {
+        padding: 50px 7%;
+    }
+    .client h1 {
+        margin: 0px 0px 35px;
+        font-size: 30px;
+    }
+    .client .pvt-ltd-client h3 {
+        margin: 30px 0px 35px;
+        font-size: 17px;
+    }
+    .client .pvt-ltd-client .pvt-ltd-grid {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 63px;
+    }
+    .non-profit-organization .non-profit-organization-grid li {
+        margin: 0px;
+    }
+    .our-expert-team-section {
+        padding: 60px 7%;
+    }
+    .our-expert-team-section h1 {
+        font-size: 30px;
+    }
+    .our-expert-team-section .our-expert-team-grid .our-expert-team-grid-box .our-expert-team-grid-box-heading {
+        font-size: 20px;
+        font-weight: 600;
+        margin: 12px 0px 0px 0px;
+    }
+    .our-expert-team-section .our-expert-team-grid .our-expert-team-grid-box .our-expert-team-grid-box-detail {
+        font-size: 14px;
+        margin: -5px 0px 0px;
+    }
+    footer .footer-col .footer-logo img {
+        width: 150px;
+    }
+    footer .footer-col li .list-icon {
+        font-size: 13px;
+    }
+    footer .footer-col li .list-detail {
+        font-size: 13px;
+    }
+    footer .footer-col .newsletter-text {
+        line-height: 20px;
+        font-size: 12px;
+    }
+    footer .footer-col i.fas.fa-arrow-right {
+        font-size: 16px;
+    }
+    .after-footer-left {
+        font-size: 13px;
+    }
+    .after-footer-right i {
+        margin: 0px 0px 0px 12px;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .cantainer {
+        width: 95%;
+    }
+    .main-slider .slider-heading {
+        margin: 0% 0% 0% 5%;
+    }
+    .contact-section {
+        padding: 25px 2%;
+    }
+    .service-section {
+        padding: 50px 2%;
+    }
+    .client {
+        padding: 50px 2%;
+    }
+    .our-expert-team-section {
+        padding: 50px 2%;
+    }
+    footer {
+        padding: 75px 2%;
+    }
+    .after-footer {
+        padding: 27px 2%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .navigation-bar .nav-icon{
+        display: block;
+        margin-right: 22px;
+    }
+    .navigation-bar .menu{
+        display: none;
+    }
+    .navigation-bar .menu ul {
+        float: right;
+        margin: unset;
+    }
+    .navigation-bar .contact-number {
+        display: flex;
+    }
+    .main-slider .slider-heading {
+        width: 65%;
+    }
+    .main-slider .slider-heading h4 {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .main-slider .slider-heading h1 {
+        font-size: 30px;
+    }
+    .main-slider .slider-heading a {
+        font-size: 12px;
+        font-weight: 500;
+        padding: 7px 15px;
+    }
+    .contact-section {
+        padding: 15px 2%;
+    }
+    .contact-section .contact-section-peragraph p {
+        margin: 5px 0px 0px 9px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .contact-section .contact-section-button a {
+        padding: 7px 15px;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .client .pvt-ltd-client h3{
+        margin-bottom: 15px;
+    }
+    .service-section::after{
+        height: 80%;
+    }
+    .service-section .service-section-top {
+        display: grid;
+        row-gap: 30px;
+        padding: 0px 0px 80px;
+        text-align: center;
+    }
+    .service-section .service-section-top .service-section-top-left h5 {
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .service-section .service-section-top .service-section-top-left h1 {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .service-section .service-section-top .service-section-top-left h1::before {
+        content: '';
+        margin: auto;
+        width: 100px;
+        left: 0;
+        right: 0;
+        bottom: -10px;
+    }
+    .service-section .service-section-top .service-section-top-right p {
+        line-height: 24px;
+        font-size: 16px;
+        padding: 0px 15px;
+    }
+    .service-section .service-section-top {
+        padding: 0px 0px 25px;
+    }
+    .service-section .service-section-bottom{
+        grid-template-columns: 1fr 1fr;
+        row-gap: 30px;
+    }
+    .partner-section {
+        margin-top: 20px;
+        display: block;
+    }
+    .our-expert-team-section .our-expert-team-grid{
+        grid-template-columns: 1fr 1fr;
+    }
+    .contact-sec .left{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact-sec .right{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 567px) {
+  body {
+    padding-top: 64px;
+  }
+    .navigation-bar{
+        padding: 1rem 0px;
+    }
+    .navigation-bar .nav-icon{
+        margin-right: 14px;
+        position: absolute;
+    }
+    .navigation-bar .contact-number{
+        display: none;
+    }
+    .navigation-bar .logo {
+        text-align: center;
+    }
+    .main-slider::after{
+        background: linear-gradient(
+            145deg
+            , rgba(255, 255, 255, 1) 0%, rgba(77, 225, 255, 0) 50%, rgba(0, 212, 255, 0) 100%);
+    }
+    .main-slider .slider-heading h1 br{
+        display: none;
+    }
+    .contact-section .contact-section-peragraph{
+        width: 100%;
+        text-align: center;
+    }
+    .contact-section .contact-section-peragraph p{
+        margin: 0px 0px 10px 0px;
+    }
+    .contact-section .contact-section-button{
+        width: 100%;
+        text-align: center;
+    }
+    .service-section {
+        padding: 30px 2%;
+    }
+    .service-section .service-section-top .service-section-top-left h5 {
+        font-size: 17px;
+        margin-bottom: 14px;
+    }
+    .service-section .service-section-top .service-section-top-left h1 {
+        font-size: 26px;
+    }
+    .service-section .service-section-top {
+        padding: 0px 0px 10px;
+    }
+    .service-section .service-section-bottom{
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+    .client {
+        padding: 30px 2%;
+    }
+    .client .pvt-ltd-client{
+        margin: 30px 0px;
+    }
+    .client .pvt-ltd-client h3{
+        margin-top: 7px;
+    }
+    .client .pvt-ltd-client .pvt-ltd-grid {
+        grid-template-columns: 1fr;
+    }
+    .our-expert-team-section .our-expert-team-grid {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+    }
+    .our-expert-team-section .our-expert-team-grid .our-expert-team-grid-box .our-expert-team-grid-box-heading {
+        font-size: 18px;
+    }
+    footer {
+        padding: 40px 2%;
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+    footer .footer-col{
+        margin-bottom: 15px;
+    }
+    .after-footer-left{
+        width: 100%;
+        text-align: center;
+    }
+    .after-footer-right{
+        width: 100%;
+        text-align: center;
+    }
+}
+@media (min-width: 0px) and (max-width: 1026px){
+    .service-section .service-section-top {
+        padding: 60px 0px;
+    }
+}
+@media (min-width: 0px) and (max-width: 768px){
+    .career-sec .new-jobs{
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 20px;
+    }
+}
+@media (min-width: 0px) and (max-width:567px){
+    .service-section .service-section-top {
+        padding: 44px 0px;
+    }
+    .career-sec .new-jobs {
+        grid-template-columns: 1fr;
+    }
+    .career-modal .modal-body{
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+    }
+}
